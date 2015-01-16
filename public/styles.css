@@ -31,5 +31,7 @@ a.actions{
   text-decoration: none;
 }
 
-
-
+div.programs a:hover{
+  background-color: #dff0d8;
+  cursor: pointer
+}
