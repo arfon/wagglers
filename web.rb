@@ -15,3 +15,8 @@ end
 get '/third' do
   erb :third
 end
+
+
+get '/org' do
+  erb :org
+end
