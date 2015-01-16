@@ -21,6 +21,10 @@ ul{
 	list-style-type: none;
 }
 
+.page-header{
+  margin-top: 0px  
+}
+
 .container {
   width: auto;
   max-width: 880px;
