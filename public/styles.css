@@ -35,3 +35,15 @@ div.programs a:hover{
   background-color: #dff0d8;
   cursor: pointer
 }
+
+div.map{
+  padding-bottom: 10px
+}
+
+div.riders li.accepted{
+  background-color: #dff0d8;
+}
+
+div.riders li.rejected{
+  background-color: rgb(242, 222, 222);
+}
